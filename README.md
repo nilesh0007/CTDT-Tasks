@@ -13,3 +13,6 @@ https://lucid.app/lucidchart/b7f86d20-8cd4-4daf-ab5f-674cf75b4c60/edit?viewport_
 
 Following is the link for Task-6:
 https://lucid.app/lucidchart/f2f1d134-0233-4840-8c66-fbeb67679771/edit?viewport_loc=-412%2C-100%2C3267%2C1553%2C0_0&invitationId=inv_5fe9eac3-5efc-45ad-a9e0-5ec564179736
+
+Following is the link for Task-7:
+https://lucid.app/lucidspark/873090da-350f-40e9-98d6-ac645c70e7a9/edit?viewport_loc=-1399%2C-942%2C3818%2C2075%2C0_0&invitationId=inv_45e3ab58-5c87-4a0c-b883-9102de744215
